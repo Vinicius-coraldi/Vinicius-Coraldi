@@ -1,16 +1,36 @@
-### Hi there 👋
+<img scr="https://thumbs.dreamstime.com/z/html-code-20580932.jpg" width="1000" heigth="200" />
+<hr>
+# Bem vindo ao meu perfil GitHub 👋👋
 
-<!--
-**Vinicius-coraldi/Vinicius-Coraldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
+Olá, me chamo  Vinícius  e sou estudante na área técnica  de informática para internet na escola protásio alves, nas horas vagas sou mais um gamer e um amante de memes!😁👾<br>
+Atualmente estou em busca de  experiência na área da informática, trabalho atualmente com atendimento ao público mas já trabalhei também como estoquista e auxiliar de produção.
 
-Here are some ideas to get you started:
+### Conhecimentos de programação:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-HTML
+-CSS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<hr>
+### Estou aprendendo:
+
+-JAVA
+-PHP
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40" />
+<hr>
+<div>
+<a href="https://github.com/vinicius-coraldi">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-coraldi&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius-coraldi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+<br>
+
+<br>
+<br>
+<br>
+
+<img scr="https://media.tenor.com/RiPP8AKiz2sAAAAC/nice-old-man.gif" width="400" />
+
+
+
