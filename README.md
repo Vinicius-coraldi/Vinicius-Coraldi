@@ -8,13 +8,13 @@ Atualmente estou em busca de  experiência na área da informática, trabalho at
 
 ### Conhecimentos de programação:
 
--HTML
+-HTML<br>
 -CSS
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <hr>
-### Estou aprendendo:
+Estou aprendendo:
 
--JAVA
+-JAVA<br>
 -PHP
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40" />
