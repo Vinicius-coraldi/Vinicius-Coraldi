@@ -29,8 +29,3 @@ Estou aprendendo:
 <br>
 <br>
 <br>
-
-<img scr="https://media.tenor.com/RiPP8AKiz2sAAAAC/nice-old-man.gif" width="400" />
-
-
-
