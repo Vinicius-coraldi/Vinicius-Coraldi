@@ -1,4 +1,4 @@
-<img scr="https://thumbs.dreamstime.com/z/html-code-20580932.jpg" width="1000" heigth="200" />
+< img scr = " https://thumbs.dreamstime.com/z/html-code-20580932.jpg"  width="1000" height="200" />
 <hr>
 # Bem vindo ao meu perfil GitHub 👋👋
 
@@ -8,7 +8,7 @@ Atualmente estou em busca de  experiência na área da informática, trabalho at
 
 ### Conhecimentos de programação:
 
--HTML
+-HTML<br>
 -CSS
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <hr>
